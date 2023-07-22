@@ -107,6 +107,7 @@ header.shadow {
 }
 .home-img img {
   width: 100%;
+  height: 400px;
 }
 .home-text span {
   font-size: var(--medium-font);
@@ -292,8 +293,9 @@ span {
   border-radius: 0.5rem;
 }
 .portfolio-img img {
-  width: 100%;
+  width:100%;
   display: block;
+  height: 400px;
 }
 .portfolio-img img:hover {
   transform: scale(1.1);
