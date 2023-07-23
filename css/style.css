@@ -293,10 +293,12 @@ span {
   border-radius: 0.5rem;
 }
 .portfolio-img img {
-  width:100%;
+  width:400px;
   display: block;
-  height: 400px;
+  height: 300px;
 }
+
+
 .portfolio-img img:hover {
   transform: scale(1.1);
   transition: 1s;
