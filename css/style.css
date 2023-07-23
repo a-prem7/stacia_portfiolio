@@ -160,7 +160,7 @@ header.shadow {
   width: 80%;
   border-radius: 0.5rem;
   position: relative; 
-  top: -120px;
+  top: -20px;
 }
 .about-text p {
   font-size: var(--p-font);
